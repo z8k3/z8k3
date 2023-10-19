@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @z8k3
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C# and Lua
-- 💞️ I’m looking to collaborate on games and scripts
-- 📫 How to reach me discord with my user z8k4645
+hello
+im zek/z8k
+im learning C++ right now
